@@ -1,1 +1,1 @@
-My Horror mind uses 
+Future playground is a project used as a way for me to troubleshoot and eventually create an AI Agent/ AI Agents. The idea is to create a simulation where the player just is not the focal point of the game experience. The world must live and progress with or without the players involvement
