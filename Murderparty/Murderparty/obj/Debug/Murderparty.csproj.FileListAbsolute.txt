@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\bin\Debug\Murderparty.exe.config
+C:\Users\User\Desktop\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\bin\Debug\Murderparty.exe
+C:\Users\User\Desktop\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\bin\Debug\Murderparty.pdb
+C:\Users\User\Desktop\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\obj\Debug\Murderparty.exe
+C:\Users\User\Desktop\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\obj\Debug\Murderparty.pdb
+C:\Users\User\Desktop\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\obj\Debug\Murderparty.csprojResolveAssemblyReference.cache
+F:\Desktop Applications Files\Coding Documentation\3rd Year Coding\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\bin\Debug\Murderparty.exe.config
+F:\Desktop Applications Files\Coding Documentation\3rd Year Coding\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\bin\Debug\Murderparty.exe
+F:\Desktop Applications Files\Coding Documentation\3rd Year Coding\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\bin\Debug\Murderparty.pdb
+F:\Desktop Applications Files\Coding Documentation\3rd Year Coding\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\obj\Debug\Murderparty.csproj.CoreCompileInputs.cache
+F:\Desktop Applications Files\Coding Documentation\3rd Year Coding\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\obj\Debug\Murderparty.exe
+F:\Desktop Applications Files\Coding Documentation\3rd Year Coding\3rd Year Coding\Term 2\Game Dev Project\Murder Scene\Murderparty\Murderparty\obj\Debug\Murderparty.pdb
+I:\My games\Murderparty\Murderparty\bin\Debug\Murderparty.exe.config
+I:\My games\Murderparty\Murderparty\bin\Debug\Murderparty.exe
+I:\My games\Murderparty\Murderparty\bin\Debug\Murderparty.pdb
+I:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.csproj.AssemblyReference.cache
+I:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.csproj.SuggestedBindingRedirects.cache
+I:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.csproj.CoreCompileInputs.cache
+I:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.exe
+I:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.pdb
+E:\My games\Murderparty\Murderparty\bin\Debug\Murderparty.exe.config
+E:\My games\Murderparty\Murderparty\bin\Debug\Murderparty.exe
+E:\My games\Murderparty\Murderparty\bin\Debug\Murderparty.pdb
+E:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.csproj.AssemblyReference.cache
+E:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.csproj.CoreCompileInputs.cache
+E:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.exe
+E:\My games\Murderparty\Murderparty\obj\Debug\Murderparty.pdb
